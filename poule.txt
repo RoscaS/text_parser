@@ -1,0 +1,174 @@
+DEBUT
+PARAGRAPHE1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Maecenas ultricies nec tortor eu semper. Donec pellentesque, diam eu efficitur 
+rhoncus, dolor nisi suscipit ligula, eu consectetur justo risus eu sem. 
+Quisque efficitur tempor arcu, at pulvinar dolor. Duis malesuada metus 
+dictum risus blandit hendrerit. Pellentesque sit amet leo mauris. 
+Suspendisse mi lorem, lobortis et nibh et, cursus scelerisque enim. 
+Nullam rhoncus ex eget leo ultricies, non viverra massa vehicula. 
+Donec pulvinar vehicula dui sed condimentum. Morbi elementum tellus 
+eget mauris pulvinar, in ultricies lacus sollicitudin. Orci varius natoque 
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum dapibus nulla eu purus viverra cursus. 
+Ut vestibulum lacus ac hendrerit efficitur. 
+Fusce venenatis consectetur neque, sed tincidunt odio mollis vel. 
+Mauris suscipit semper cursus. In enim libero, facilisis sit amet mauris at, 
+gravida ornare enim.
+
+PARAGRAPHE2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Maecenas ultricies nec tortor eu semper. Donec pellentesque, diam eu efficitur 
+rhoncus, dolor nisi suscipit ligula, eu consectetur justo risus eu sem. 
+Quisque efficitur tempor arcu, at pulvinar dolor. Duis malesuada metus 
+dictum risus blandit hendrerit. Pellentesque sit amet leo mauris. 
+Suspendisse mi lorem, lobortis et nibh et, cursus scelerisque enim. 
+>>>>>HEAD
+Nullam rhoncus ex eget leo ultricies, non viverra massa vehicula. 
+Donec pulvinar vehicula dui sed condimentum. Morbi elementum tellus 
+eget mauris pulvinar, in ultricies lacus sollicitudin. Orci varius natoque 
+>>>>>HEAD
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum dapibus nulla eu purus viverra cursus. 
+=====
+Ut vestibulum lacus ac hendrerit efficitur. 
+Fusce venenatis consectetur neque, sed tincidunt odio mollis vel. 
+Mauris suscipit semper cursus. In enim libero, facilisis sit amet mauris at, 
+gravida ornare enim.
+
+>>>>>HEAD
+PARAGRAPHE3
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Maecenas ultricies nec tortor eu semper. Donec pellentesque, diam eu efficitur 
+rhoncus, dolor nisi suscipit ligula, eu consectetur justo risus eu sem. 
+Quisque efficitur tempor arcu, at pulvinar dolor. Duis malesuada metus 
+dictum risus blandit hendrerit. Pellentesque sit amet leo mauris. 
+Suspendisse mi lorem, lobortis et nibh et, cursus scelerisque enim. 
+Nullam rhoncus ex eget leo ultricies, non viverra massa vehicula.
+===== 
+Donec pulvinar vehicula dui sed condimentum. Morbi elementum tellus 
+eget mauris pulvinar, in ultricies lacus sollicitudin. Orci varius natoque 
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum dapibus nulla eu purus viverra cursus. 
+=====
+Ut vestibulum lacus ac hendrerit efficitur. 
+Fusce venenatis consectetur neque, sed tincidunt odio mollis vel. 
+Mauris suscipit semper cursus. In enim libero, facilisis sit amet mauris at, 
+gravida ornare enim.
+
+DEBUT
+PARAGRAPHE1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Maecenas ultricies nec tortor eu semper. Donec pellentesque, diam eu efficitur 
+rhoncus, dolor nisi suscipit ligula, eu consectetur justo risus eu sem. 
+Quisque efficitur tempor arcu, at pulvinar dolor. Duis malesuada metus 
+dictum risus blandit hendrerit. Pellentesque sit amet leo mauris. 
+Suspendisse mi lorem, lobortis et nibh et, cursus scelerisque enim. 
+Nullam rhoncus ex eget leo ultricies, non viverra massa vehicula. 
+Donec pulvinar vehicula dui sed condimentum. Morbi elementum tellus 
+eget mauris pulvinar, in ultricies lacus sollicitudin. Orci varius natoque 
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum dapibus nulla eu purus viverra cursus. 
+Ut vestibulum lacus ac hendrerit efficitur. 
+Fusce venenatis consectetur neque, sed tincidunt odio mollis vel. 
+Mauris suscipit semper cursus. In enim libero, facilisis sit amet mauris at, 
+gravida ornare enim.
+
+PARAGRAPHE2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Maecenas ultricies nec tortor eu semper. Donec pellentesque, diam eu efficitur 
+rhoncus, dolor nisi suscipit ligula, eu consectetur justo risus eu sem. 
+Quisque efficitur tempor arcu, at pulvinar dolor. Duis malesuada metus 
+dictum risus blandit hendrerit. Pellentesque sit amet leo mauris. 
+Suspendisse mi lorem, lobortis et nibh et, cursus scelerisque enim. 
+>>>>>HEAD
+Nullam rhoncus ex eget leo ultricies, non viverra massa vehicula. 
+Donec pulvinar vehicula dui sed condimentum. Morbi elementum tellus 
+eget mauris pulvinar, in ultricies lacus sollicitudin. Orci varius natoque 
+>>>>>HEAD
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum dapibus nulla eu purus viverra cursus. 
+=====
+Ut vestibulum lacus ac hendrerit efficitur. 
+Fusce venenatis consectetur neque, sed tincidunt odio mollis vel. 
+Mauris suscipit semper cursus. In enim libero, facilisis sit amet mauris at, 
+gravida ornare enim.
+
+>>>>>HEAD
+PARAGRAPHE3
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Maecenas ultricies nec tortor eu semper. Donec pellentesque, diam eu efficitur 
+rhoncus, dolor nisi suscipit ligula, eu consectetur justo risus eu sem. 
+Quisque efficitur tempor arcu, at pulvinar dolor. Duis malesuada metus 
+dictum risus blandit hendrerit. Pellentesque sit amet leo mauris. 
+Suspendisse mi lorem, lobortis et nibh et, cursus scelerisque enim. 
+Nullam rhoncus ex eget leo ultricies, non viverra massa vehicula.
+===== 
+Donec pulvinar vehicula dui sed condimentum. Morbi elementum tellus 
+eget mauris pulvinar, in ultricies lacus sollicitudin. Orci varius natoque 
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum dapibus nulla eu purus viverra cursus. 
+=====
+Ut vestibulum lacus ac hendrerit efficitur. 
+Fusce venenatis consectetur neque, sed tincidunt odio mollis vel. 
+Mauris suscipit semper cursus. In enim libero, facilisis sit amet mauris at, 
+gravida ornare enim.
+
+DEBUT
+PARAGRAPHE1
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Maecenas ultricies nec tortor eu semper. Donec pellentesque, diam eu efficitur 
+rhoncus, dolor nisi suscipit ligula, eu consectetur justo risus eu sem. 
+Quisque efficitur tempor arcu, at pulvinar dolor. Duis malesuada metus 
+dictum risus blandit hendrerit. Pellentesque sit amet leo mauris. 
+Suspendisse mi lorem, lobortis et nibh et, cursus scelerisque enim. 
+Nullam rhoncus ex eget leo ultricies, non viverra massa vehicula. 
+Donec pulvinar vehicula dui sed condimentum. Morbi elementum tellus 
+eget mauris pulvinar, in ultricies lacus sollicitudin. Orci varius natoque 
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum dapibus nulla eu purus viverra cursus. 
+Ut vestibulum lacus ac hendrerit efficitur. 
+Fusce venenatis consectetur neque, sed tincidunt odio mollis vel. 
+Mauris suscipit semper cursus. In enim libero, facilisis sit amet mauris at, 
+gravida ornare enim.
+
+PARAGRAPHE2
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Maecenas ultricies nec tortor eu semper. Donec pellentesque, diam eu efficitur 
+rhoncus, dolor nisi suscipit ligula, eu consectetur justo risus eu sem. 
+Quisque efficitur tempor arcu, at pulvinar dolor. Duis malesuada metus 
+dictum risus blandit hendrerit. Pellentesque sit amet leo mauris. 
+Suspendisse mi lorem, lobortis et nibh et, cursus scelerisque enim. 
+>>>>>HEAD
+Nullam rhoncus ex eget leo ultricies, non viverra massa vehicula. 
+Donec pulvinar vehicula dui sed condimentum. Morbi elementum tellus 
+eget mauris pulvinar, in ultricies lacus sollicitudin. Orci varius natoque 
+>>>>>HEAD
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum dapibus nulla eu purus viverra cursus. 
+=====
+Ut vestibulum lacus ac hendrerit efficitur. 
+Fusce venenatis consectetur neque, sed tincidunt odio mollis vel. 
+Mauris suscipit semper cursus. In enim libero, facilisis sit amet mauris at, 
+gravida ornare enim.
+
+>>>>>HEAD
+PARAGRAPHE3
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Maecenas ultricies nec tortor eu semper. Donec pellentesque, diam eu efficitur 
+rhoncus, dolor nisi suscipit ligula, eu consectetur justo risus eu sem. 
+Quisque efficitur tempor arcu, at pulvinar dolor. Duis malesuada metus 
+dictum risus blandit hendrerit. Pellentesque sit amet leo mauris. 
+Suspendisse mi lorem, lobortis et nibh et, cursus scelerisque enim. 
+Nullam rhoncus ex eget leo ultricies, non viverra massa vehicula.
+===== 
+Donec pulvinar vehicula dui sed condimentum. Morbi elementum tellus 
+eget mauris pulvinar, in ultricies lacus sollicitudin. Orci varius natoque 
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+Vestibulum dapibus nulla eu purus viverra cursus. 
+=====
+Ut vestibulum lacus ac hendrerit efficitur. 
+Fusce venenatis consectetur neque, sed tincidunt odio mollis vel. 
+Mauris suscipit semper cursus. In enim libero, facilisis sit amet mauris at, 
+gravida ornare enim.
+FIN
